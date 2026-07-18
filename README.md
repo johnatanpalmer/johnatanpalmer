@@ -4,7 +4,7 @@ I am an **Environmental Engineer** and **Geospatial Software Engineer** speciali
 
 ### 🛠️ Technical Focus: Geospatial & Web3 Solutions
 
-My technical profile is structured around a **T-shaped architecture**—combining a broad foundation in workflow automation with deep technical execution in both geographic data systems and decentralized networks:
+My technical profile is structured around a **T-shaped architecture**, combining a broad foundation in workflow automation with deep technical execution in both geographic data systems and decentralized networks:
 
 *   **Smart Contracts & Web3:** Designing decentralized ecosystems, tokenizing Real World Assets (RWA), and implementing secure digital ledgers for environmental and agricultural tracking.
 *   **Geospatial (GIS) & Data Engineering:** Processing complex spatial data, drone-mapped fields, and satellite imagery into actionable data architectures and dynamic dashboard applications.
