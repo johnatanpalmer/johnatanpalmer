@@ -23,7 +23,7 @@ I don't fit into a standard development box. My expertise is split horizontally 
 *Below are the aggregated statistics of my development hours, including private client-side engineering, smart contract deployments, and automated geospatial pipelines:*
 
 <p align="center">
-  <img src="github-readme-stats-omega-khaki-73.vercel.app/api/top-langs/?username=johnatanpalmer&layout=compact&theme=dark&count_private=true&langs_count=7" alt="Johnatan's Top Languages" />
+  <img src="https://github-readme-stats-omega-khaki-73.vercel.app/api/top-langs/?username=johnatanpalmer&layout=compact&theme=dark&count_private=true&langs_count=7" alt="Johnatan's Top Languages" />
 </p>
 
 ---
